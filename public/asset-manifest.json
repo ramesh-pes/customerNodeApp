@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.283d7861.chunk.css",
+    "main.js": "/static/js/main.dc43368e.chunk.js",
+    "main.js.map": "/static/js/main.dc43368e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c0fbc32.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c0fbc32.js.map",
+    "static/js/2.a16ba003.chunk.js": "/static/js/2.a16ba003.chunk.js",
+    "static/js/2.a16ba003.chunk.js.map": "/static/js/2.a16ba003.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.029e0502683ad57af27be019d8904ad4.js": "/precache-manifest.029e0502683ad57af27be019d8904ad4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.283d7861.chunk.css.map": "/static/css/main.283d7861.chunk.css.map",
+    "static/js/2.a16ba003.chunk.js.LICENSE.txt": "/static/js/2.a16ba003.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/static/media/1.f33d9178.jpg",
+    "static/media/2.jpg": "/static/media/2.92fb17ec.jpg",
+    "static/media/3.jpg": "/static/media/3.78962450.jpg",
+    "static/media/4.jpg": "/static/media/4.7eef6399.jpg",
+    "static/media/style.css": "/static/media/weathericons-regular-webfont.ecaf8b48.svg",
+    "static/media/img1.jpg": "/static/media/img1.555ab3a8.jpg",
+    "static/media/img2.jpg": "/static/media/img2.b97c99cd.jpg",
+    "static/media/img3.jpg": "/static/media/img3.798035df.jpg",
+    "static/media/img4.jpg": "/static/media/img4.e77a5906.jpg",
+    "static/media/img5.jpg": "/static/media/img5.73a034c4.jpg",
+    "static/media/img6.jpg": "/static/media/img6.13ac8444.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c0fbc32.js",
+    "static/js/2.a16ba003.chunk.js",
+    "static/css/main.283d7861.chunk.css",
+    "static/js/main.dc43368e.chunk.js"
+  ]
+}
