@@ -5,11 +5,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "predeploy": "npm run build",
     
-    "build": "react-scripts build",
-    "deploy": "gh-pages -d build"
-
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
